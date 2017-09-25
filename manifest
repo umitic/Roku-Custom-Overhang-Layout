@@ -9,4 +9,5 @@ mm_icon_side_sd=pkg:/images/icon.jpg
 splash_screen_fhd=pkg:/images/splash_fhd.png
 splash_screen_hd=pkg:/images/splash_hd.png
 splash_screen_sd=pkg:/images/splash_sd.png
+ui_resolutions=FHD
 splash_rsg_optimization=1

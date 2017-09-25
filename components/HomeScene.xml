@@ -18,7 +18,7 @@
 		
 		<Keyboard
 			id = "keyboard"
-			translation = "[170, 300]" 
+			translation = "[242, 300]" 
 		/>
         
 	    <Label
@@ -26,13 +26,13 @@
 			width = "840"
 			font = "font:MediumBoldSystemFont"
 			text = "Please enter some text"
-			translation = "[186,220]" 
+			translation = "[242, 220]" 
 			/>
 			
 		 <Button
 			id = "button"
 			text = "Hide Overhang"
-			translation="[510,620]"
+			translation="[750, 860]"
 			showFocusFootprint = "true"
 			focusedIconUri = "pkg:/images/button-img-hide-black.png"
 			focusFootprintBitmapUri = "pkg:/images/button-unfocused.png"
